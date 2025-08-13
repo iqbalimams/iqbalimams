@@ -1,12 +1,8 @@
 ![Iqbal Imam Sholihin](images/github-header.png)
 
-<!-- - 🌱 I’m currently learning **AWS Cloud Computing** at **Orbit Future Academy**
-
-##### Skills -->
-
 ### 💫 About Me:
 
-🌱 I’m currently learning **AWS Cloud Computing** at **Orbit Future Academy**
+🌱 I’m currently learning **AWS re/Start Cloud Computing Program** at **Orbit Future Academy**
 
 ### 🌐 Socials:
 
